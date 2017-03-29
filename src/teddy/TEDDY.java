@@ -17,7 +17,7 @@ public class TEDDY {
     public static void main(String[] args) {
         // TODO code application logic here
         
-    
+    //ejemplo para proyecto
     System.out.print("que vivan las conejitos ");
 }
 }
